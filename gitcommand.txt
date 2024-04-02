@@ -1,0 +1,5 @@
+git add
+git clone 
+git commit -m 
+git push origin main
+4th line used to get changes in online githubfile thats why we push it origin =repo code  main = your  file(above commends paased file) is located in which branch 
