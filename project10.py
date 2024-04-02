@@ -30,6 +30,7 @@ while computer_score < 3 and user_score<3:
         print("you lost")          
         computer_score+=1
 print(f" user gets {user_score} wins")        
-print(f" computer gets {computer_score} wins")   
+print(f" computer gets {computer_score} wins") 
+print("hyu")  
 
 
