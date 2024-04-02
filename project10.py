@@ -16,7 +16,7 @@ while computer_score < 3 and user_score<3:
         print("can you enter valid input strike")
         continue
     computer_strike=random.choice(choices)
-    print(computer_strike)
+    print(f"Computer choice is {computer_strike}")
     if user_input =="rock" and computer_strike=="scissor": 
         print("u win")  
         user_score+=1
@@ -31,6 +31,6 @@ while computer_score < 3 and user_score<3:
         computer_score+=1
 print(f" user gets {user_score} wins")        
 print(f" computer gets {computer_score} wins") 
-print("hyu")  
+ 
 
 
