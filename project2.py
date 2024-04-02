@@ -8,6 +8,10 @@ if Guessed_num.isdigit():# returns True if socalled variable gueesednum str obje
         quit()
     import random
     Random_num=random.randrange(0,10)
+    
+   
+
+
     if Random_num== Guessed_num :
         print("you got it !!!!!")
     else:
@@ -16,7 +20,7 @@ if Guessed_num.isdigit():# returns True if socalled variable gueesednum str obje
         
 else:
     print("Ensure that you are entering a number")    
-a=Maggie Boone
+
 
 
 
